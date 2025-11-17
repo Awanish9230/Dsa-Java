@@ -37,9 +37,11 @@ public class ArmStrong {
         }
         return c;
     }
-    
+
     public static void main(String[] args) {
         
         System.out.println(countArmStrong(10000));
     } 
 }
+
+// java -xss5m Abc
