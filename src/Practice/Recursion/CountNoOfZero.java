@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Recursion;
 
 public class CountNoOfZero {
     static int countNoOfZero(int num){

@@ -21,6 +21,7 @@ public class FindOccur {
     static int[] find( int arr[] , int index, int search){
         return findHelper(arr, index, search, 0);
     }
+    
     public static void main(String[] args) {
         int arr[] = {11,10,20,10,90,10,100,10,88};
         int result[] = find(arr, 0, 10);

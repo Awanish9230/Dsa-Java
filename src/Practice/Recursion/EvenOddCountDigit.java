@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Recursion;
 
 public class EvenOddCountDigit {
     static int oddCount(int num){
