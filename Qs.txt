@@ -5,3 +5,6 @@
 5)count even or odd digit of number
 6)number to string conversion
 7)string to integer Hint : ASSCI value  exa int h2= p-'0'
+9311544143
+
+// palindrome
