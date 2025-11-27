@@ -11,7 +11,14 @@ public class MultiBranch {
         System.out.println("Between call " + num);
         tree(num-2);
 
-        System.out.println("Post call " + num);
+        System.out.println("Post call {num -3}  " + num);
+        tree(num-3);
+
+        System.out.println("Post call {num -4}  " + num);
+        tree(num-4);
+
+        System.out.println("Post call {num -5}  "  + num);
+        tree(num-5);
     }
     public static void main(String[] args) {
         tree(5);
